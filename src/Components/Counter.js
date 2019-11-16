@@ -12,7 +12,7 @@ function Counter() {
 
   return (
     <div>
-      <p>Le compteur est  à :</p>
+      <p>Le compteur est  à : { count }</p>
       <input 
       type = 'number' 
       name = 'counter' 
